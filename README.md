@@ -241,6 +241,7 @@ Feel free to explore, fork, or contribute by submitting pull requests with addit
 |[tradovate-mcp-server](https://serp.co/mcp/servers/alexanimal-tradovate-mcp-server)|Tradovate MCP Server|Finance|1|1|
 |[whatsapp-mcp-server](https://serp.co/mcp/servers/msaelices-whatsapp-mcp-server)|Whatsapp MCP Server implemented in Python|Communication|5|2|
 |[mem0-mcp](https://serp.co/mcp/servers/pinkpixel-dev-mem0-mcp)|✨ mem0 MCP Server: A modern memory system using mem0 for AI applications with model context protocl (MCP) integration. Enables long-term memory for AI agents as a drop-in MCP server.|Knowledge & Memory|34|3|
+|[omega-memory](https://github.com/omega-memory/omega-memory)|Persistent memory for AI coding agents with semantic search, contradiction detection, memory decay, and checkpoint/resume. 25 MCP tools, local-first (SQLite + ONNX), #1 on LongMemEval (95.4%).|Knowledge & Memory|31|5|
 |[evm-mcp-server](https://serp.co/mcp/servers/mcpdotdirect-evm-mcp-server)|MCP server that provides LLM with tools for interacting with EVM networks|Finance|178|29|
 |[higress-ai-search-mcp-server](https://serp.co/mcp/servers/cr7258-higress-ai-search-mcp-server)|An MCP server enhances AI responses with real-time search results via Higress ai-search.|Search;Knowledge & Memory|5|2|
 |[google-cloud-healthcare-api-mcp](https://serp.co/mcp/servers/Kartha-AI-google-cloud-healthcare-api-mcp)|MCP Server for Google Cloud Healthcare API|Health & Wellness;Cloud Platforms|2|0|
@@ -1955,6 +1956,7 @@ Feel free to explore, fork, or contribute by submitting pull requests with addit
 |[tradovate-mcp-server](https://serp.co/mcp/servers/alexanimal-tradovate-mcp-server)|Tradovate MCP Server|Finance|1|1|
 |[whatsapp-mcp-server](https://serp.co/mcp/servers/msaelices-whatsapp-mcp-server)|Whatsapp MCP Server implemented in Python|Communication|5|2|
 |[mem0-mcp](https://serp.co/mcp/servers/pinkpixel-dev-mem0-mcp)|✨ mem0 MCP Server: A modern memory system using mem0 for AI applications with model context protocl (MCP) integration. Enables long-term memory for AI agents as a drop-in MCP server.|Knowledge & Memory|34|3|
+|[omega-memory](https://github.com/omega-memory/omega-memory)|Persistent memory for AI coding agents with semantic search, contradiction detection, memory decay, and checkpoint/resume. 25 MCP tools, local-first (SQLite + ONNX), #1 on LongMemEval (95.4%).|Knowledge & Memory|31|5|
 |[evm-mcp-server](https://serp.co/mcp/servers/mcpdotdirect-evm-mcp-server)|MCP server that provides LLM with tools for interacting with EVM networks|Finance|178|29|
 |[higress-ai-search-mcp-server](https://serp.co/mcp/servers/cr7258-higress-ai-search-mcp-server)|An MCP server enhances AI responses with real-time search results via Higress ai-search.|Search;Knowledge & Memory|5|2|
 |[google-cloud-healthcare-api-mcp](https://serp.co/mcp/servers/Kartha-AI-google-cloud-healthcare-api-mcp)|MCP Server for Google Cloud Healthcare API|Health & Wellness;Cloud Platforms|2|0|
